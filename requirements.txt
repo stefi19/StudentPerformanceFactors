@@ -1,0 +1,7 @@
+kagglehub==1.0.0
+pandas==3.0.2
+numpy==2.4.4
+jupyter
+nbconvert
+nbformat
+nbclient
